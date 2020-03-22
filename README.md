@@ -1,5 +1,5 @@
 # Hand-Gesture
-this project predict the hand gesture through the webcam 
+this project predict the hand gesture(it tell the numbers from 1 to 5) through the webcam 
 In this I have use Tensorflow 2.0, OpenCV, Sklearn and Python.
 This project has three modules or parts:
 1. Hand_gusture module: this module create the data set folders....
